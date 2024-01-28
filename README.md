@@ -15,7 +15,10 @@ To install the necessary libraries, run the following commands in your terminal:
 ```bash
 pip install -r requirements.txt
 pip install geopy
-Features
+```
+
+## Features
+
 Scrapes event URLs from "https://visitseattle.org/events".
 Fetches geographical coordinates for event locations.
 Retrieves weather forecasts for the event's date and location.
